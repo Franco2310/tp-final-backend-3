@@ -1,4 +1,4 @@
-# 🐾 Adopciones API - Proyecto Final Backend
+# Adopciones API - Proyecto Final Backend
 
 Este es un proyecto desarrollado con Node.js, Express y MongoDB
 
